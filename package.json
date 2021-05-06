@@ -1,0 +1,19 @@
+{
+  "name": "ableton-clone",
+  "version": "1.0.0",
+  "description": "Apleton: An Ableton \"About Page\" Clone",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm build dist/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RICK-FLORES/Ableton-Clone.git"
+  },
+  "author": "Rick Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RICK-FLORES/Ableton-Clone/issues"
+  },
+  "homepage": "https://github.com/RICK-FLORES/Ableton-Clone#readme"
+}
